@@ -9,5 +9,6 @@ int main(){
   printf("sin(pi/4) = %.6f\n", sinf(M_PI/4.f));
   printf("sin(pi/5) = %.6f\n", sinf(M_PI/5.f));
   printf("sin(pi/6) = %.6f\n", sinf(M_PI/6.f));
+  printf("sin(pi/7) = %.6f\n", sinf(M_PI/7.f));
   return 0;
 }
